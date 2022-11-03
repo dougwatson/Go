@@ -1,3 +1,3 @@
-module github.com/TheAlgorithms/Go
+module github.com/TheAlgorithms/Go/v3
 
 go 1.19
